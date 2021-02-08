@@ -1,2 +1,1 @@
 # gulaku
-gulakuhuhu
